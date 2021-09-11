@@ -1,0 +1,2 @@
+rootProject.name = "Kanban Board"
+include ':app'
